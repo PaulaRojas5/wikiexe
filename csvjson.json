@@ -1,1469 +1,2442 @@
 [
   {
-    "x-y": "X"
+    "X": "Ingmar Bergman",
+    "Y": 42,
+    "": ""
   },
   {
-    "x-y": "Ingmar Bergman"
+    "X": "Wim Wenders",
+    "Y": 29,
+    "": ""
   },
   {
-    "x-y": "Wim Wenders"
+    "X": "Akira Kurosawa",
+    "Y": 27,
+    "": ""
   },
   {
-    "x-y": "Akira Kurosawa"
+    "X": "Yasujiro Ozu",
+    "Y": 21,
+    "": ""
   },
   {
-    "x-y": "Yasujiro Ozu"
+    "X": "Louis Malle",
+    "Y": 18,
+    "": ""
   },
   {
-    "x-y": "Louis Malle"
+    "X": "Roberto Rossellini",
+    "Y": 16,
+    "": ""
   },
   {
-    "x-y": "Roberto Rossellini"
+    "X": "Agnès Varda",
+    "Y": 15,
+    "": ""
   },
   {
-    "x-y": "Agnès Varda"
+    "X": "Rainer Werner Fassbinder",
+    "Y": 15,
+    "": ""
   },
   {
-    "x-y": "Rainer Werner Fassbinder"
+    "X": "Aki Kaurismäki",
+    "Y": 14,
+    "": ""
   },
   {
-    "x-y": "Aki Kaurismäki"
+    "X": "Federico Fellini",
+    "Y": 14,
+    "": ""
   },
   {
-    "x-y": "Federico Fellini"
+    "X": "Olivier Assayas",
+    "Y": 14,
+    "": ""
   },
   {
-    "x-y": "Olivier Assayas"
+    "X": "Jean-Luc Godard",
+    "Y": 13,
+    "": ""
   },
   {
-    "x-y": "Jean-Luc Godard"
+    "X": "Chantal Akerman",
+    "Y": 12,
+    "": ""
   },
   {
-    "x-y": "Chantal Akerman"
+    "X": "Abbas Kiarostami",
+    "Y": 11,
+    "": ""
   },
   {
-    "x-y": "Abbas Kiarostami"
+    "X": "Jean Renoir",
+    "Y": 11,
+    "": ""
   },
   {
-    "x-y": "Jean Renoir"
+    "X": "Satyajit Ray",
+    "Y": 11,
+    "": ""
   },
   {
-    "x-y": "Satyajit Ray"
+    "X": "Kenji Misumi",
+    "Y": 10,
+    "": ""
   },
   {
-    "x-y": "Kenji Misumi"
+    "X": "Nagisa Oshima",
+    "Y": 10,
+    "": ""
   },
   {
-    "x-y": "Nagisa Oshima"
+    "X": "Ernst Lubitsch",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "Ernst Lubitsch"
+    "X": "François Truffaut",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "François Truffaut"
+    "X": "Ishiro Honda",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "Ishiro Honda"
+    "X": "Jean-Pierre Melville",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "Jean-Pierre Melville"
+    "X": "Josef von Sternberg",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "Josef von Sternberg"
+    "X": "Kenji Mizoguchi",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "Kenji Mizoguchi"
+    "X": "Krzysztof Kieślowski",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "Krzysztof Kieślowski"
+    "X": "Luis Buñuel",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "Luis Buñuel"
+    "X": "Michael Powell and Emeric Pressburger",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "Michael Powell and Emeric Pressburger"
+    "X": "Steven Soderbergh",
+    "Y": 9,
+    "": ""
   },
   {
-    "x-y": "Steven Soderbergh"
+    "X": "Alfred Hitchcock",
+    "Y": 8,
+    "": ""
   },
   {
-    "x-y": "Alfred Hitchcock"
+    "X": "Charles Chaplin",
+    "Y": 8,
+    "": ""
   },
   {
-    "x-y": "Charles Chaplin"
+    "X": "Dušan Makavejev",
+    "Y": 8,
+    "": ""
   },
   {
-    "x-y": "Dušan Makavejev"
+    "X": "Jacques Tati",
+    "Y": 8,
+    "": ""
   },
   {
-    "x-y": "Jacques Tati"
+    "X": "Jim Jarmusch",
+    "Y": 8,
+    "": ""
   },
   {
-    "x-y": "Jim Jarmusch"
+    "X": "Masaki Kobayashi",
+    "Y": 8,
+    "": ""
   },
   {
-    "x-y": "Masaki Kobayashi"
+    "X": "Michelangelo Antonioni",
+    "Y": 8,
+    "": ""
   },
   {
-    "x-y": "Michelangelo Antonioni"
+    "X": "Samuel Fuller",
+    "Y": 8,
+    "": ""
   },
   {
-    "x-y": "Samuel Fuller"
+    "X": "Claude Lanzmann",
+    "Y": 7,
+    "": ""
   },
   {
-    "x-y": "Claude Lanzmann"
+    "X": "David Lean",
+    "Y": 7,
+    "": ""
   },
   {
-    "x-y": "David Lean"
+    "X": "Keisuke Kinoshita",
+    "Y": 7,
+    "": ""
   },
   {
-    "x-y": "Keisuke Kinoshita"
+    "X": "Orson Welles",
+    "Y": 7,
+    "": ""
   },
   {
-    "x-y": "Orson Welles"
+    "X": "Robert Altman",
+    "Y": 7,
+    "": ""
   },
   {
-    "x-y": "Robert Altman"
+    "X": "Robert Bresson",
+    "Y": 7,
+    "": ""
   },
   {
-    "x-y": "Robert Bresson"
+    "X": "Seijun Suzuki",
+    "Y": 7,
+    "": ""
   },
   {
-    "x-y": "Seijun Suzuki"
+    "X": "Stanley Kubrick",
+    "Y": 7,
+    "": ""
   },
   {
-    "x-y": "Stanley Kubrick"
+    "X": "Wes Anderson",
+    "Y": 7,
+    "": ""
   },
   {
-    "x-y": "Wes Anderson"
+    "X": "Carl Th. Dreyer",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Carl Th. Dreyer"
+    "X": "Costa-Gavras",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Costa-Gavras"
+    "X": "Eric Rohmer",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Eric Rohmer"
+    "X": "Jacques Demy",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Jacques Demy"
+    "X": "John Cassavetes",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "John Cassavetes"
+    "X": "Julien Duvivier",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Julien Duvivier"
+    "X": "Kimiyoshi Yasuda",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Kimiyoshi Yasuda"
+    "X": "Koreyoshi Kurahara",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Koreyoshi Kurahara"
+    "X": "Lars von Trier",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Lars von Trier"
+    "X": "Max Ophuls",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Max Ophuls"
+    "X": "Mikio Naruse",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Mikio Naruse"
+    "X": "Nicolas Roeg",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Nicolas Roeg"
+    "X": "Paweł Pawlikowski",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Paweł Pawlikowski"
+    "X": "Pier Paolo Pasolini",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Pier Paolo Pasolini"
+    "X": "Richard Linklater",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Richard Linklater"
+    "X": "Roman Polanski",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Roman Polanski"
+    "X": "Terrence Malick",
+    "Y": 6,
+    "": ""
   },
   {
-    "x-y": "Terrence Malick"
+    "X": "Alexander Korda",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Alexander Korda"
+    "X": "Allan King",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Allan King"
+    "X": "David Cronenberg",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "David Cronenberg"
+    "X": "Edward Yang",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Edward Yang"
+    "X": "G. W. Pabst",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "G. W. Pabst"
+    "X": "Henri-Georges Clouzot",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Henri-Georges Clouzot"
+    "X": "Jules Dassin",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Jules Dassin"
+    "X": "Jun Fukuda",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Jun Fukuda"
+    "X": "Kon Ichikawa",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Kon Ichikawa"
+    "X": "Pierre Etaix",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Pierre Etaix"
+    "X": "Sacha Guitry",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Sacha Guitry"
+    "X": "Shohei Imamura",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Shohei Imamura"
+    "X": "Terry Gilliam",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Terry Gilliam"
+    "X": "Vittorio De Sica",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Vittorio De Sica"
+    "X": "Volker Schlöndorff",
+    "Y": 5,
+    "": ""
   },
   {
-    "x-y": "Volker Schlöndorff"
+    "X": "Alain Resnais",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Alain Resnais"
+    "X": "Alfonso Cuarón",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Alfonso Cuarón"
+    "X": "Andrei Tarkovsky",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Andrei Tarkovsky"
+    "X": "Andrzej Wajda",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Andrzej Wajda"
+    "X": "Basil Dearden",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Basil Dearden"
+    "X": "Carlos Saura",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Carlos Saura"
+    "X": "Carol Reed",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Carol Reed"
+    "X": "Claude Autant-Lara",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Claude Autant-Lara"
+    "X": "David Lynch",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "David Lynch"
+    "X": "Errol Morris",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Errol Morris"
+    "X": "Guillermo del Toro",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Guillermo del Toro"
+    "X": "Hiroshi Shimizu",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Hiroshi Shimizu"
+    "X": "Hiroshi Teshigahara",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Hiroshi Teshigahara"
+    "X": "Jan Troell",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Jan Troell"
+    "X": "Jean Cocteau",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Jean Cocteau"
+    "X": "Jean-Pierre Dardenne and Luc Dardenne",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Jean-Pierre Dardenne and Luc Dardenne"
+    "X": "Kirsten Johnson",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Kirsten Johnson"
+    "X": "Luchino Visconti",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Luchino Visconti"
+    "X": "Marcel Carné",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Marcel Carné"
+    "X": "Mike Leigh",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Mike Leigh"
+    "X": "Preston Sturges",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Preston Sturges"
+    "X": "Raffaello Matarazzo",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Raffaello Matarazzo"
+    "X": "René Clair",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "René Clair"
+    "X": "Robert Downey Sr.",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Robert Downey Sr."
+    "X": "Robert M. Young",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Robert M. Young"
+    "X": "Zoltán Korda",
+    "Y": 4,
+    "": ""
   },
   {
-    "x-y": "Zoltán Korda"
+    "X": "Abdellatif Kechiche",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Abdellatif Kechiche"
+    "X": "Agnieszka Holland",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Agnieszka Holland"
+    "X": "Alex Cox",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Alex Cox"
+    "X": "Barbet Schroeder",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Barbet Schroeder"
+    "X": "Bob Rafelson",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Bob Rafelson"
+    "X": "Brian  De Palma",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Brian  De Palma"
+    "X": "Cristian Mungiu",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Cristian Mungiu"
+    "X": "Douglas Sirk",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Douglas Sirk"
+    "X": "Ermanno Olmi",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Ermanno Olmi"
+    "X": "Francesco Rosi",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Francesco Rosi"
+    "X": "Fritz Lang",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Fritz Lang"
+    "X": "Gabriel Axel",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Gabriel Axel"
+    "X": "Gillo Pontecorvo",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Gillo Pontecorvo"
+    "X": "Godfrey Reggio",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Godfrey Reggio"
+    "X": "Gregory Nava",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Gregory Nava"
+    "X": "Gustaf Molander",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Gustaf Molander"
+    "X": "Hal Ashby",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Hal Ashby"
+    "X": "Hiroshi Inagaki",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Hiroshi Inagaki"
+    "X": "Howard Hawks",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Howard Hawks"
+    "X": "Jacques Audiard",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Jacques Audiard"
+    "X": "Jacques Becker",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Jacques Becker"
+    "X": "Jan Němec",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Jan Němec"
+    "X": "Jean Grémillon",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Jean Grémillon"
+    "X": "Jean-Pierre Gorin",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Jean-Pierre Gorin"
+    "X": "John Ford",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "John Ford"
+    "X": "John Huston",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "John Huston"
+    "X": "John Schlesinger",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "John Schlesinger"
+    "X": "John Waters",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "John Waters"
+    "X": "Jonathan Demme",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Jonathan Demme"
+    "X": "Kaneto Shindo",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Kaneto Shindo"
+    "X": "Karel Zeman",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Karel Zeman"
+    "X": "Kazuo Ikehiro",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Kazuo Ikehiro"
+    "X": "Kazuo Mori",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Kazuo Mori"
+    "X": "Kihachi Okamoto",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Kihachi Okamoto"
+    "X": "Laurence Olivier",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Laurence Olivier"
+    "X": "Les Blank",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Les Blank"
+    "X": "Lino Brocka",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Lino Brocka"
+    "X": "Masahiro Shinoda",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Masahiro Shinoda"
+    "X": "Michael Haneke",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Michael Haneke"
+    "X": "Milcho Manchevski",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Milcho Manchevski"
+    "X": "Mira Nair",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Mira Nair"
+    "X": "Monte Hellman",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Monte Hellman"
+    "X": "Nicholas Ray",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Nicholas Ray"
+    "X": "Noah Baumbach",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Noah Baumbach"
+    "X": "Norman Mailer",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Norman Mailer"
+    "X": "Pedro Almodóvar",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Pedro Almodóvar"
+    "X": "Pedro Costa",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Pedro Costa"
+    "X": "René Clément",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "René Clément"
+    "X": "Robert Day",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Robert Day"
+    "X": "Ronald Neame",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Ronald Neame"
+    "X": "Sergei Eisenstein",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Sergei Eisenstein"
+    "X": "Sidney Lumet",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Sidney Lumet"
+    "X": "Terry Zwigoff",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Terry Zwigoff"
+    "X": "Tokuzo Tanaka",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Tokuzo Tanaka"
+    "X": "Whit Stillman",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Whit Stillman"
+    "X": "William Klein",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "William Klein"
+    "X": "Wong Kar-wai",
+    "Y": 3,
+    "": ""
   },
   {
-    "x-y": "Wong Kar-wai"
+    "X": "Albert Lamorisse",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Albert Lamorisse"
+    "X": "Alf Sjöberg",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Alf Sjöberg"
+    "X": "Andrew Haigh",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Andrew Haigh"
+    "X": "Ang Lee",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Ang Lee"
+    "X": "Anthony Asquith",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Anthony Asquith"
+    "X": "Arthur Crabtree",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Arthur Crabtree"
+    "X": "Bernardo Bertolucci",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Bernardo Bertolucci"
+    "X": "Billy Wilder",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Billy Wilder"
+    "X": "Bruce Beresford",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Bruce Beresford"
+    "X": "Bruce Robinson",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Bruce Robinson"
+    "X": "Bruno Dumont",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Bruno Dumont"
+    "X": "Chris Hegedus and D. A. Pennebaker",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Chris Hegedus and D. A. Pennebaker"
+    "X": "Chris Marker",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Chris Marker"
+    "X": "Claire Denis",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Claire Denis"
+    "X": "Claude Chabrol",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Claude Chabrol"
+    "X": "D. A. Pennebaker",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "D. A. Pennebaker"
+    "X": "David Fincher",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "David Fincher"
+    "X": "David Mamet",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "David Mamet"
+    "X": "David Maysles, Albert Maysles, and Charlotte Zwerin",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "David Maysles, Albert Maysles, and Charlotte Zwerin"
+    "X": "Delmer Daves",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Delmer Daves"
+    "X": "Don Siegel",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Don Siegel"
+    "X": "Elia Kazan",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Elia Kazan"
+    "X": "Erik Skjoldbjærg",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Erik Skjoldbjærg"
+    "X": "František Vláčil",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "František Vláčil"
+    "X": "Fred Newmeyer and Sam Taylor",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Fred Newmeyer and Sam Taylor"
+    "X": "Gabriel Pascal",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Gabriel Pascal"
+    "X": "George Cukor",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "George Cukor"
+    "X": "George Sluizer",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "George Sluizer"
+    "X": "George Stevens",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "George Stevens"
+    "X": "Georges Franju",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Georges Franju"
+    "X": "Greg Mottola",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Greg Mottola"
+    "X": "Gus Van Sant",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Gus Van Sant"
+    "X": "Guy Maddin",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Guy Maddin"
+    "X": "Hideo Gosha",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Hideo Gosha"
+    "X": "Jackie Chan",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Jackie Chan"
+    "X": "James Ivory",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "James Ivory"
+    "X": "Jane Campion",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Jane Campion"
+    "X": "Jaromil Jireš",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Jaromil Jireš"
+    "X": "Jean Vigo",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Jean Vigo"
+    "X": "Jiří Menzel",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Jiří Menzel"
+    "X": "John Frankenheimer",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "John Frankenheimer"
+    "X": "John Woo",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "John Woo"
+    "X": "Jon Nguyen, Rick Barnes, and Olivia Neergaard-Holm",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Jon Nguyen, Rick Barnes, and Olivia Neergaard-Holm"
+    "X": "Kazui Nihonmatsu",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Kazui Nihonmatsu"
+    "X": "Kelly Reichardt",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Kelly Reichardt"
+    "X": "Ken Loach",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Ken Loach"
+    "X": "King Hu",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "King Hu"
+    "X": "Larisa Shepitko",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Larisa Shepitko"
+    "X": "Leo McCarey",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Leo McCarey"
+    "X": "Leslie Arliss",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Leslie Arliss"
+    "X": "Lindsay Anderson",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Lindsay Anderson"
+    "X": "Lucille Carra",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Lucille Carra"
+    "X": "Marcel Pagnol",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Marcel Pagnol"
+    "X": "Mario Monicelli",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Mario Monicelli"
+    "X": "Martin Scorsese",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Martin Scorsese"
+    "X": "Maurice Pialat",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Maurice Pialat"
+    "X": "Michael Bay",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Michael Bay"
+    "X": "Michael Curtiz",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Michael Curtiz"
+    "X": "Michael Powell",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Michael Powell"
+    "X": "Mikhail Kalatozov",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Mikhail Kalatozov"
+    "X": "Miloš Forman",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Miloš Forman"
+    "X": "Ousmane Sembène",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Ousmane Sembène"
+    "X": "Paul Morrissey",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Paul Morrissey"
+    "X": "Peter Weir",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Peter Weir"
+    "X": "Pietro Germi",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Pietro Germi"
+    "X": "Raymond Bernard",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Raymond Bernard"
+    "X": "René Laloux",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "René Laloux"
+    "X": "Ritwik Ghatak",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Ritwik Ghatak"
+    "X": "Rob Reiner",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Rob Reiner"
+    "X": "Saul J. Turell",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Saul J. Turell"
+    "X": "Sergei Parajanov",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Sergei Parajanov"
+    "X": "Spike Lee",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Spike Lee"
+    "X": "Stephen Frears",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Stephen Frears"
+    "X": "Steve McQueen",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Steve McQueen"
+    "X": "Ted Wilde",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Ted Wilde"
+    "X": "Tony Richardson",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Tony Richardson"
+    "X": "Toshiya Fujita",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Toshiya Fujita"
+    "X": "Víctor Erice",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Víctor Erice"
+    "X": "Victor Schertzinger",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Victor Schertzinger"
+    "X": "Vilgot Sjöman",
+    "Y": 2,
+    "": ""
   },
   {
-    "x-y": "Vilgot Sjöman"
+    "X": "Agnieszka Smoczyńska",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Agnieszka Smoczyńska"
+    "X": "Ahmed El Maânouni",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Ahmed El Maânouni"
+    "X": "Akira Inoue",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Akira Inoue"
+    "X": "Al Reinert",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Al Reinert"
+    "X": "Alan J. Pakula",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Alan J. Pakula"
+    "X": "Albert Brooks",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Albert Brooks"
+    "X": "Albert Maysles and David Maysles",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Albert Maysles and David Maysles"
+    "X": "Albert Maysles, David Maysles, Ellen Hovde, and Muffie Meyer",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Albert Maysles, David Maysles, Ellen Hovde, and Muffie Meyer"
+    "X": "Alberto Lattuada",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Alberto Lattuada"
+    "X": "Alexander Hall",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Alexander Hall"
+    "X": "Alexander Mackendrick",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Alexander Mackendrick"
+    "X": "Alexander Payne",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Alexander Payne"
+    "X": "Allen Baron",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Allen Baron"
+    "X": "Allison Anders, Dean Lent, and Kurt Voss",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Allison Anders, Dean Lent, and Kurt Voss"
+    "X": "Anatole Litvak",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Anatole Litvak"
+    "X": "Andrea Arnold",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Andrea Arnold"
+    "X": "Anthony Asquith and Leslie Howard",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Anthony Asquith and Leslie Howard"
+    "X": "Anthony Mann",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Anthony Mann"
+    "X": "Antonio Pietrangeli",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Antonio Pietrangeli"
+    "X": "Apichatpong Weerasethakul",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Apichatpong Weerasethakul"
+    "X": "Arnaud Desplechin",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Arnaud Desplechin"
+    "X": "Arthur Hiller",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Arthur Hiller"
+    "X": "Barbara Kopple",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Barbara Kopple"
+    "X": "Barbara Loden",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Barbara Loden"
+    "X": "Barbra Streisand",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Barbra Streisand"
+    "X": "Benjamin Christensen",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Benjamin Christensen"
+    "X": "Bernhard Wicki",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Bernhard Wicki"
+    "X": "Bertrand Tavernier",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Bertrand Tavernier"
+    "X": "Bill Forsyth",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Bill Forsyth"
+    "X": "Bob Fosse",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Bob Fosse"
+    "X": "Buichi Saito",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Buichi Saito"
+    "X": "Byron Haskin",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Byron Haskin"
+    "X": "Carlos Reygadas",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Carlos Reygadas"
+    "X": "Carroll Ballard",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Carroll Ballard"
+    "X": "Catherine Breillat",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Catherine Breillat"
+    "X": "Cecil B. DeMille",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Cecil B. DeMille"
+    "X": "Charles Burnett",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Charles Burnett"
+    "X": "Charles Kiselyak",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Charles Kiselyak"
+    "X": "Charles Laughton",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Charles Laughton"
+    "X": "Charles Vidor",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Charles Vidor"
+    "X": "Chester Erskine",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Chester Erskine"
+    "X": "Christian Petzold",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Christian Petzold"
+    "X": "Christian-Jaque",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Christian-Jaque"
+    "X": "Christopher Nolan",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Christopher Nolan"
+    "X": "Claude Berri",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Claude Berri"
+    "X": "Claude Jutra",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Claude Jutra"
+    "X": "Claude Sautet",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Claude Sautet"
+    "X": "Cornel Wilde",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Cornel Wilde"
+    "X": "Daniel Petrie",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Daniel Petrie"
+    "X": "Danny Boyle",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Danny Boyle"
+    "X": "David Byrne",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "David Byrne"
+    "X": "David Gordon Green",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "David Gordon Green"
+    "X": "David Lean and Noël Coward",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "David Lean and Noël Coward"
+    "X": "Dennis Hopper",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Dennis Hopper"
+    "X": "Derek Jarman",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Derek Jarman"
+    "X": "Dino Risi",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Dino Risi"
+    "X": "Djibril Diop Mambéty",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Djibril Diop Mambéty"
+    "X": "Donna Deitch",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Donna Deitch"
+    "X": "Dudley Murphy",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Dudley Murphy"
+    "X": "Edgar G. Ulmer",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Edgar G. Ulmer"
+    "X": "Edouard Molinaro",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Edouard Molinaro"
+    "X": "Edvin Adolphson and Sigurd Wallén",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Edvin Adolphson and Sigurd Wallén"
+    "X": "Edward Cline",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Edward Cline"
+    "X": "Elaine May",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Elaine May"
+    "X": "Elio Petri",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Elio Petri"
+    "X": "Emilio Gómez Muriel and Fred Zinnemann",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Emilio Gómez Muriel and Fred Zinnemann"
+    "X": "Erle C. Kenton",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Erle C. Kenton"
+    "X": "Ermek Shinarbaev",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Ermek Shinarbaev"
+    "X": "Ernest B. Schoedsack and Irving Pichel",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Ernest B. Schoedsack and Irving Pichel"
+    "X": "Ettore Scola",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Ettore Scola"
+    "X": "Euzhan Palcy",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Euzhan Palcy"
+    "X": "Evald Schorm",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Evald Schorm"
+    "X": "Federico Fellini and Alberto Lattuada",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Federico Fellini and Alberto Lattuada"
+    "X": "Felipe Cazals",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Felipe Cazals"
+    "X": "Franc Roddam",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Franc Roddam"
+    "X": "Francis Ford Coppola",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Francis Ford Coppola"
+    "X": "Frank Borzage",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Frank Borzage"
+    "X": "Frank Capra",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Frank Capra"
+    "X": "George A. Romero",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "George A. Romero"
+    "X": "Gillian Armstrong",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Gillian Armstrong"
+    "X": "Giuseppe De Santis",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Giuseppe De Santis"
+    "X": "Götz Spielmann",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Götz Spielmann"
+    "X": "Gregory La Cava",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Gregory La Cava"
+    "X": "Grigori Chukhrai",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Grigori Chukhrai"
+    "X": "Gustaf Edgren",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Gustaf Edgren"
+    "X": "Haskell Wexler",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Haskell Wexler"
+    "X": "Henry Cass",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Henry Cass"
+    "X": "Henry Jaglom",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Henry Jaglom"
+    "X": "Herk Harvey",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Herk Harvey"
+    "X": "Hirokazu Kore-eda",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Hirokazu Kore-eda"
+    "X": "Hiroshi Matsuno",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Hiroshi Matsuno"
+    "X": "Howard Brookner",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Howard Brookner"
+    "X": "Irvin S. Yeaworth Jr.",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Irvin S. Yeaworth Jr."
+    "X": "Irving Rapper",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Irving Rapper"
+    "X": "Jack Clayton",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jack Clayton"
+    "X": "Jack Garfein",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jack Garfein"
+    "X": "Jack Nicholson",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jack Nicholson"
+    "X": "Jack Woods",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jack Woods"
+    "X": "Jacques Rivette",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jacques Rivette"
+    "X": "Jacques Tourneur",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jacques Tourneur"
+    "X": "James L. Brooks",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "James L. Brooks"
+    "X": "James Whale",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "James Whale"
+    "X": "Ján Kadár and Elmar Klos",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Ján Kadár and Elmar Klos"
+    "X": "Jean Rouch and Edgar Morin",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jean Rouch and Edgar Morin"
+    "X": "Jean Vigo and Boris Kaufman",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jean Vigo and Boris Kaufman"
+    "X": "Jean-Jacques Beineix",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jean-Jacques Beineix"
+    "X": "Jean-Luc Godard and Jean-Pierre Gorin",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jean-Luc Godard and Jean-Pierre Gorin"
+    "X": "Jennie Livingston",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jennie Livingston"
+    "X": "Jiří Menzel, Věra Chytilová, Jaromil Jireš, Jan Němec, and Evald Schorm",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Jiří Menzel, Věra Chytilová, Jaromil Jireš, Jan Němec, and Evald Schorm"
+    "X": "Joel Coen",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Joel Coen"
+    "X": "Joel Coen and Ethan Coen",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Joel Coen and Ethan Coen"
+    "X": "John Cameron Mitchell",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "John Cameron Mitchell"
+    "X": "John Hughes",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "John Hughes"
+    "X": "John Lurie",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "John Lurie"
+    "X": "John M. Stahl",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "John M. Stahl"
+    "X": "John Mackenzie",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "John Mackenzie"
+    "X": "John Murray Anderson",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "John Murray Anderson"
+    "X": "John Sayles",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "John Sayles"
+    "X": "Joseph L. Mankiewicz",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Joseph L. Mankiewicz"
+    "X": "Joshua Marston",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Joshua Marston"
+    "X": "Juan Antonio Bardem",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Juan Antonio Bardem"
+    "X": "Juzo Itami",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Juzo Itami"
+    "X": "Karel Reisz",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Karel Reisz"
+    "X": "Ken Russell",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Ken Russell"
+    "X": "Kenneth Macpherson",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Kenneth Macpherson"
+    "X": "Kevin Smith",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Kevin Smith"
+    "X": "Kim Ki-young",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Kim Ki-young"
+    "X": "Kô Nakahira",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Kô Nakahira"
+    "X": "Lasse Hallström",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Lasse Hallström"
+    "X": "Laurie Anderson",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Laurie Anderson"
+    "X": "Lawrence Kasdan",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Lawrence Kasdan"
+    "X": "Lee Chang-dong",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Lee Chang-dong"
+    "X": "Lena Dunham",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Lena Dunham"
+    "X": "Leo Hurwitz and Paul Strand",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Leo Hurwitz and Paul Strand"
+    "X": "Leon Gast",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Leon Gast"
+    "X": "Leonard Kastle",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Leonard Kastle"
+    "X": "Lewis Allen",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Lewis Allen"
+    "X": "Liliana Cavani",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Liliana Cavani"
+    "X": "Lodge Kerrigan",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Lodge Kerrigan"
+    "X": "Lucrecia Martel",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Lucrecia Martel"
+    "X": "Ludwig Berger, Michael Powell, and Tim Whelan",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Ludwig Berger, Michael Powell, and Tim Whelan"
+    "X": "Luis García Berlanga",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Luis García Berlanga"
+    "X": "Lütfi Ö.  Akad",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Lütfi Ö.  Akad"
+    "X": "Lynne Ramsay",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Lynne Ramsay"
+    "X": "Marc Allégret",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Marc Allégret"
+    "X": "Marcel Camus",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Marcel Camus"
+    "X": "Marco Bellocchio",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Marco Bellocchio"
+    "X": "Marco Ferreri",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Marco Ferreri"
+    "X": "Marie Nyreröd",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Marie Nyreröd"
+    "X": "Mário Peixoto",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Mário Peixoto"
+    "X": "Mark Robson",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Mark Robson"
+    "X": "Mark Rydell",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Mark Rydell"
+    "X": "Marlon Brando",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Marlon Brando"
+    "X": "Martin Ritt",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Martin Ritt"
+    "X": "Martin Rosen",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Martin Rosen"
+    "X": "Mathieu Kassovitz",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Mathieu Kassovitz"
+    "X": "Matteo Garrone",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Matteo Garrone"
+    "X": "Metin Erksan",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Metin Erksan"
+    "X": "Michael Cimino",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Michael Cimino"
+    "X": "Michael Mann",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Michael Mann"
+    "X": "Michael Moore",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Michael Moore"
+    "X": "Michael Radford",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Michael Radford"
+    "X": "Michael Ritchie",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Michael Ritchie"
+    "X": "Mike Nichols",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Mike Nichols"
+    "X": "Monte Brice, Clyde Bruckman, Edwin Middleton, Leslie Pearce, and Arthur Ripley",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Monte Brice, Clyde Bruckman, Edwin Middleton, Leslie Pearce, and Arthur Ripley"
+    "X": "Motoyoshi Oda",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Motoyoshi Oda"
+    "X": "Murray Lerner",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Murray Lerner"
+    "X": "Nathan Kroll",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Nathan Kroll"
+    "X": "Neil Jordan",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Neil Jordan"
+    "X": "Nobuhiko Obayashi",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Nobuhiko Obayashi"
+    "X": "Nobuo Nakagawa",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Nobuo Nakagawa"
+    "X": "Norman Jewison",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Norman Jewison"
+    "X": "Oscar Micheaux",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Oscar Micheaux"
+    "X": "Otto Preminger",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Otto Preminger"
+    "X": "Paolo Sorrentino",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Paolo Sorrentino"
+    "X": "Paul Bartel",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Paul Bartel"
+    "X": "Paul Czinner",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Paul Czinner"
+    "X": "Paul Fejos",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Paul Fejos"
+    "X": "Paul Schrader",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Paul Schrader"
+    "X": "Paul Thomas Anderson",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Paul Thomas Anderson"
+    "X": "Paul Verhoeven",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Paul Verhoeven"
+    "X": "Pen Tennyson",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Pen Tennyson"
+    "X": "Per Lindberg",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Per Lindberg"
+    "X": "Perry Henzell",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Perry Henzell"
+    "X": "Peter Bogdanovich",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Peter Bogdanovich"
+    "X": "Peter Brook",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Peter Brook"
+    "X": "Peter Davis",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Peter Davis"
+    "X": "Peter Medak",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Peter Medak"
+    "X": "Peter Yates",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Peter Yates"
+    "X": "Philip Kaufman",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Philip Kaufman"
+    "X": "Rémy Belvaux, André Bonzel, and Benoit Poelvoorde",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Rémy Belvaux, André Bonzel, and Benoit Poelvoorde"
+    "X": "Richard Brooks",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Richard Brooks"
+    "X": "Richard Lester",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Richard Lester"
+    "X": "Robert Aldrich",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Aldrich"
+    "X": "Robert Downey Sr. and Robert Soukis",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Downey Sr. and Robert Soukis"
+    "X": "Robert Epstein",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Epstein"
+    "X": "Robert Flaherty",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Flaherty"
+    "X": "Robert Flaherty and Zoltán Korda",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Flaherty and Zoltán Korda"
+    "X": "Robert Hamer",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Hamer"
+    "X": "Robert Montgomery",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Montgomery"
+    "X": "Robert Siodmak",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Siodmak"
+    "X": "Robert Siodmak and Edgar G. Ulmer",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Siodmak and Edgar G. Ulmer"
+    "X": "Robert Zemeckis",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Robert Zemeckis"
+    "X": "Roger Vadim",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Roger Vadim"
+    "X": "Ron Shelton",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Ron Shelton"
+    "X": "Roy Ward Baker",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Roy Ward Baker"
+    "X": "Russ Meyer",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Russ Meyer"
+    "X": "Sam Peckinpah",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Sam Peckinpah"
+    "X": "Satsuo Yamamoto",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Satsuo Yamamoto"
+    "X": "Serge Bourguignon",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Serge Bourguignon"
+    "X": "Sergei Bondarchuk",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Sergei Bondarchuk"
+    "X": "Shintaro Katsu",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Shintaro Katsu"
+    "X": "Sidney Gilliat",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Sidney Gilliat"
+    "X": "Sofia Coppola",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Sofia Coppola"
+    "X": "Spencer G. Bennet",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Spencer G. Bennet"
+    "X": "Spike Jonze",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Spike Jonze"
+    "X": "Stanley Donen",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Stanley Donen"
+    "X": "Stanley Kramer",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Stanley Kramer"
+    "X": "Stephen Roberts",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Stephen Roberts"
+    "X": "Steve James",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Steve James"
+    "X": "Stig Björkman",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Stig Björkman"
+    "X": "Stuart Cooper",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Stuart Cooper"
+    "X": "Susan Seidelman",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Susan Seidelman"
+    "X": "Sydney Pollack",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Sydney Pollack"
+    "X": "Takashi Murakami",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Takashi Murakami"
+    "X": "Takashi Nomura",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Takashi Nomura"
+    "X": "Takumi Furukawa",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Takumi Furukawa"
+    "X": "Teinosuke Kinugasa",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Teinosuke Kinugasa"
+    "X": "Terence Davies",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Terence Davies"
+    "X": "Terry Jones",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Terry Jones"
+    "X": "Thornton Freeland",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Thornton Freeland"
+    "X": "Todd Haynes",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Todd Haynes"
+    "X": "Todd Solondz",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Todd Solondz"
+    "X": "Tomás Gutiérrez Alea",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Tomás Gutiérrez Alea"
+    "X": "Torben Skjødt Jensen",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Torben Skjødt Jensen"
+    "X": "Toshio Masuda",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Toshio Masuda"
+    "X": "Various",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Various"
+    "X": "Věra Chytilová",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Věra Chytilová"
+    "X": "Victor Sjöström",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Victor Sjöström"
+    "X": "Volker Schlöndorff and Margarethe von Trotta",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Volker Schlöndorff and Margarethe von Trotta"
+    "X": "William Cameron Menzies",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "William Cameron Menzies"
+    "X": "William Dieterle",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "William Dieterle"
+    "X": "William Greaves",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "William Greaves"
+    "X": "William Mason",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "William Mason"
+    "X": "William Wyler",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "William Wyler"
+    "X": "Yoshimitsu Banno",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Yoshimitsu Banno"
+    "X": "Yoshiyuki Kuroda",
+    "Y": 1,
+    "": ""
   },
   {
-    "x-y": "Yoshiyuki Kuroda"
-  },
-  {
-    "x-y": "Yukio Mishima and Domoto Masaki"
+    "X": "Yukio Mishima and Domoto Masaki",
+    "Y": 1,
+    "": ""
   }
 ]
