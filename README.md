@@ -19,3 +19,4 @@ Research about the Criterion Collection using differents tools and visualisation
 <li> Observable</li>
 <li>Google Sheets</li>
 <li>Visual Studio Code</li>
+<li>Tableau</li>
